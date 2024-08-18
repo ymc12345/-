@@ -1,0 +1,9 @@
+﻿<Application x:Class="学习卡.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:学习卡"
+             StartupUri="Views/MainView.xaml">
+    <Application.Resources>
+        <ResourceDictionary  Source="./Assets/Styles/ComboBoxStyle.xaml"/>
+    </Application.Resources>
+</Application>
